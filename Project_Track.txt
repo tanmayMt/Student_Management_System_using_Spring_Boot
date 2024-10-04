@@ -2,3 +2,5 @@
 00:02:45 -> Cretae 'Student' class in model directory.
 00:06:00 -> Create ‘IStudentService’ interface under service directory
 00:09:00 -> Create Implement class ‘StudentService’ in service directory to implement ‘IStudentService’Interface.
+00:10:18 -> Create Interface ‘JpaRepository’ in ‘repository’ directory and extends ‘JpaRepository’.
+00:10:30 -> 
