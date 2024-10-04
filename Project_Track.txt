@@ -1,0 +1,4 @@
+00:00:00 -> Project Setup
+00:02:45 -> Cretae 'Student' class in model directory.
+00:06:00 -> Create ‘IStudentService’ interface under service directory
+00:09:00 -> Create Implement class ‘StudentService’ in service directory to implement ‘IStudentService’Interface.
