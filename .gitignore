@@ -31,3 +31,10 @@ build/
 
 ### VS Code ###
 .vscode/
+
+
+src/main/resources/application.yml
+src\main\resources\application.yml
+*.yml
+G:/studentmanagement/src/main/resources/templates
+G:\studentmanagement\src\main\resources\templates

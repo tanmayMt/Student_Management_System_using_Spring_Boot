@@ -6,4 +6,4 @@
 00:10:30 -> Create/Implement methods in class ‘StudentService’
 00:27:24 -> Create class ‘StudentController’ (as a RESTful controller) under controller directory & controller class responsible for handling HTTP requests
 00:37:37 -> Create ‘application.yml’ file -> Configure Database Connection and JPA Settings
-
+00:39:12  -> Let's Go to 'Postman' and test our endpoints

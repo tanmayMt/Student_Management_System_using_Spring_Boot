@@ -4,6 +4,7 @@ import java.util.List;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
+import org.springframework.web.bind.annotation.CrossOrigin;
 import org.springframework.web.bind.annotation.DeleteMapping;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
@@ -17,6 +18,8 @@ import com.tanmay.studentmanagement.model.Student;
 import com.tanmay.studentmanagement.service.IStudentService;
 
 import lombok.RequiredArgsConstructor;
+
+@CrossOrigin("http://localhost:3000") //allowing client application to consume the backed
 
 @RestController  //@RestController is a Spring annotation that tells Spring Boot 
                  //to treat a class as a RESTful controller. This means that the 
