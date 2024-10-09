@@ -1,0 +1,10 @@
+-> Project Setup
+-> Cretae 'Student' class in model directory
+-> Create ‘IStudentService’ interface under service directory
+-> Create Implement class ‘StudentService’ in service directory to implement ‘IStudentService’Interface.
+-> Create Interface ‘JpaRepository’ in ‘repository’ directory and extends ‘JpaRepository’.
+-> Create/Implement methods in class ‘StudentService’
+-> Create class ‘StudentController’ (as a RESTful controller) under controller directory & controller class responsible for handling HTTP requests
+-> Create ‘application.yml’ file -> Configure Database Connection and JPA Settings
+-> Let's Go to 'Postman' and test our endpoints
+-> Let's Start building Frontend Part

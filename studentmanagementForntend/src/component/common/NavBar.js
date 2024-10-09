@@ -12,7 +12,7 @@ const NavBar = () => {
 			</div>
 			<div className="container-fluid">
 				<Link className="navbar-brand" to={"/"}>
-					SBR Demo
+					Home
 				</Link>
 				<button
 					className="navbar-toggler"
@@ -33,14 +33,14 @@ const NavBar = () => {
 								className="nav-link active"
 								aria-current="page"
 								to={"/view-students"}>
-								View All Student
+								All Students
 							</Link>
 						</li>
 						<li className="nav-item">
 							<Link
 								className="nav-link"
 								to={"/add-students"}>
-								Add new Students
+								Add New Student
 							</Link>
 						</li>
 					</ul>
