@@ -12,7 +12,7 @@ const Footer = () => {
         </Link>
       </div>
       <div>
-        <p class="copyright-text">© 2024 <u>Tanmay Samanta</u>. All rights reserved.</p>
+        <p class="copyright-text">© 2025 <u>Tanmay Samanta</u>. All rights reserved.</p>
       </div>
     </footer>
   );

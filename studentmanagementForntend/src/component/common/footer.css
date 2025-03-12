@@ -12,13 +12,32 @@
     /* Center the image horizontally */
 }
 
-.copyright-text {
+/* .copyright-text {
     text-align: center;
     font-size: 20px;
     color: hsl(321, 43%, 53%);
-    /* Adjust the color as needed */
     margin-top: 20px;
-    /* Adjust the top margin as needed */
     font-family: Arial, sans-serif;
-    /* Adjust the font family as needed */
+} */
+
+
+
+
+.copyright-text {
+    text-align: center;
+    font-size: 18px;
+    color: #6a0572;
+    /* Stylish deep purple color */
+    margin-top: 20px;
+    font-family: 'Poppins', sans-serif;
+    /* Modern and elegant font */
+    font-weight: 600;
+    letter-spacing: 1px;
+}
+
+.copyright-text u {
+    text-decoration: none;
+    color: #d63484;
+    /* Stylish pinkish color for name */
+    font-weight: 700;
 }

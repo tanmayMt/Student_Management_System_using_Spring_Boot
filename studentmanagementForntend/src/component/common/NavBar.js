@@ -3,6 +3,8 @@ import { Link } from "react-router-dom";
 import studentLogo from './studentLogo.png';
 import reactLogo from './react.png';
 import springLogo from './springLogo.png'
+import logoT from './logoT.png';
+
 import './logo.css';
 const NavBar = () => {
 	return (
@@ -51,6 +53,9 @@ const NavBar = () => {
 			</div>
 			<div>
 				<img src={reactLogo} alt="ReactJS Logo" class="logo"></img>
+			</div>
+			<div>
+				<img src={logoT} alt="Logo T" class="logo"></img>
 			</div>
 		</nav>
 		
